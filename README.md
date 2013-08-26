@@ -4,7 +4,7 @@ jQuery Multi-select menu in squares
 
 a dead simple multi-select in squares
 
-[Demo](https://s.jiyinyiyong.info/jquery-select-squares/index.html)
+[Demo](http://s.jiyinyiyong.info/jquery-select-squares-simple/index.html)
 
 ### Installation
 

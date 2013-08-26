@@ -1,0 +1,25 @@
+{
+  "name": "jquery-select-squares-simple",
+  "version": "0.0.1",
+  "main": "js/select.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3"
+  },
+  "authors": [
+    "jiyinyiyong <jiyinyiyong@gmail.com>"
+  ],
+  "description": "jQuery Multi-select menu in squares",
+  "keywords": [
+    "jquery",
+    "select"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jiyinyiyong/jquery-select-squares-simple"
+}
